@@ -1,0 +1,107 @@
+.galeria {
+    font-size: 50px;
+    font-family: georgia;
+    margin-top: 40px;
+}
+
+.seta_dois {
+    width: 80px;
+    border-radius: 30%;
+}
+
+
+.imagens_dos_certificados, .desafio_tres, .desafio_quatro, .desafio_cinco, .desafio_seis, .desafio_sete, .desafio_oito, .desafio_certificado, .web, .logica, .git, .website {
+    width: 20%;
+    display: block;
+    margin-right: 30%;
+    
+}
+
+.desafio_um {
+    width: 500%;
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.desafio_dois {
+    width: 500%;
+    margin-top: 30px;
+    border-radius: 10%;
+    
+}
+
+.desafio_tres {
+    width: 500%;
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.desafio_quatro {
+    width: 500%;
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.desafio_cinco {
+    width: 500%;
+    
+    margin-top: 30px;
+    border-radius: 10%1
+}
+
+.desafio_seis {
+    width: 500%;
+   
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.desafio_sete {
+    width: 500%;
+   
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.desafio_oito {
+    width: 500%;
+   
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.desafio_certificado {
+    width: 500%;
+   
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.web {
+    width: 500%;
+    
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.logica {
+    width: 500%;
+   
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.git {
+    width: 500%;
+    
+    margin-top: 30px;
+    border-radius: 10%;
+}
+
+.website {
+    width: 500%;
+    
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-radius: 10%;
+}
